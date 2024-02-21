@@ -28,3 +28,6 @@ REPORT SAMPLE Insights
 
    final conclusion
 targrt women customers of age group (30–49) living in Maharashtra, Karnataka, and Uttar Pradesh by having adds, offers, and coupons available on Amazon, Flipkart, and Myntra.
+
+![image](https://github.com/sahil07codac/excel-data-analysis-mahalaxmi-store/assets/141804728/c43dc1c8-d616-4aed-8ca8-ae8c50aee0d9)
+
